@@ -77,7 +77,8 @@ A real-time weather app developed using React.js and Django.
 ---
 
 ### 📬 **Let’s Connect**:
-- 💼 [LinkedIn](https://linkedin.com/in/tanbirul99)  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-profile-link)  
+Connect with me on **LinkedIn** to collaborate on exciting projects.
 
 ---
 
