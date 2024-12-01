@@ -1,4 +1,4 @@
-![Cover](https://www.canva.com/design/DAGYEl7cnEI/7JtAyU3x_NsDzwH68SArug/view?utm_content=DAGYEl7cnEI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![I am GitHub Readme Generator's creator](https://ibb.co.com/8DYzNs6)
 
 # Hi there! 👋 I'm **Tanbirul Alam**  
 ### 🌟 *Web Developer | Researcher | Tech Enthusiast*
