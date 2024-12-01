@@ -43,11 +43,31 @@
 
 ---
 
-### 🌟 **Current Projects**:
-- **[TourAgency](https://github.com/Tanbirul99/TourAgency)**: A travel planning platform built using **HTML**, **CSS**, and **JavaScript**.  
-- **[LiveForecast](https://github.com/Tanbirul99/LiveForecast)**: A live weather application using **React.js** for accurate weather updates.  
+## 🌟 **Highlighted Projects**
+
+### 🌍 [**TourAgency**](https://github.com/Tanbirul99/TourAgency)  
+A travel planning platform designed with HTML, CSS, and JavaScript.  
+![Travel](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-globe-travel-flat-flat-juicy-fish.png)
 
 ---
+
+### ☁️ [**LiveForecast**](https://github.com/Tanbirul99/LiveForecast)  
+A real-time weather app developed using React.js and Django.  
+![Weather](https://img.icons8.com/color/64/000000/partly-cloudy-day.png)
+---
+
+## 🚀 **Current Project**
+
+🌱 **Plant Disease Detection Using Machine Learning**  
+- Leveraging cutting-edge machine learning algorithms to identify and manage crop diseases efficiently.  
+- Utilizing **Python** and libraries like **TensorFlow**, **Scikit-learn**, and **OpenCV** for data preprocessing and model building.  
+- Integrating **Flask** for creating a user-friendly web interface.  
+- Collecting and curating a comprehensive dataset of plant diseases from reliable agricultural research sources.
+
+⏳ **Status**: Work in progress, estimated completion by **April 2025**. A repository link will be provided upon completion.  
+
+---
+
 
 ### 📊 **GitHub Stats**:
 ![Tanbirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanbirul99&show_icons=true&theme=radical)  
@@ -58,7 +78,6 @@
 
 ### 📬 **Let’s Connect**:
 - 💼 [LinkedIn](https://linkedin.com/in/tanbirul99)  
-- 📧 [Email Me](mailto:tanbirul.alam99@gmail.com)  
 
 ---
 
