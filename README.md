@@ -1,4 +1,5 @@
-![I am GitHub Readme Generator's creator](https://ibb.co.com/8DYzNs6)
+![Cover](https://i.ibb.co.com/Z62HGXW/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png)
+
 
 # Hi there! 👋 I'm **Tanbirul Alam**  
 ### 🌟 *Web Developer | Researcher | Tech Enthusiast*
